@@ -1,0 +1,131 @@
+/*Header*/
+/*-----------------------------------------------------------------------------------------------------------------------*/
+
+.bdy{
+  overflow-x: hidden;
+}
+
+.ht{
+    width: 30px;
+    height: 55px;
+    padding-top: 50px;
+    margin-left: 5px;
+   
+}
+
+.navv{
+    height: 88px;
+    position: fixed;
+    
+}
+
+.sbt{
+    height: 10px;
+}
+
+.t2{
+    width: 70ch;
+}
+.t3{
+    width: 28ch;
+}
+
+.t5{
+    margin-left: 20px;
+    margin-top: 15px;
+    
+}
+
+
+.inpcolor{
+  background-color: rgb(227, 227, 253);;
+}
+
+.appleholder{
+ border-radius: 50%;
+ background-color: black;
+}
+
+.google{
+   border-radius: 50%;
+}
+
+
+
+@media(max-width:750px){
+  .t2{
+    width:28ch;
+    margin: auto;
+  }
+
+  .t3{
+    width: 30ch;
+    margin: auto;
+  }
+  .t4{
+    margin: auto;
+  }
+
+  .t5{
+    margin: auto;
+    margin-left: 175px;
+  }
+
+  #icons1{
+    margin-left: 200px;
+}
+.icons2{
+  text-align: center;
+}
+
+.icons3{
+  padding-left: 50px;
+}
+.img3{
+  margin-left: 90px;
+}
+.img4{
+  margin-left: 75px;
+}
+
+.res1{
+  margin-left: -22px;
+}
+
+.res2{
+  margin-top: -15px;
+}
+
+.res3{
+  z-index: 1;
+  margin-left: 35px;
+}
+
+.res4{
+  margin-left: 10px;
+}
+
+.res5{
+  z-index: 1;
+}
+}
+
+.facebook{
+  position: absolute;
+  
+}
+
+.fb{
+  position: absolute;
+  opacity: 0;
+}
+.goog{
+  opacity: 0;
+  position: absolute;
+  
+}
+
+.google{
+  border-radius: 50%;
+  position: absolute;
+}
