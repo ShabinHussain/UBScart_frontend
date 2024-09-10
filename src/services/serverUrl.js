@@ -1,1 +1,1 @@
-export const serverUrl = 'https://ubscart-backend.onrender.com'
+export const serverUrl = 'https://ubscart-backend-1.onrender.com'
